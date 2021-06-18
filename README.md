@@ -1,6 +1,8 @@
 # The Task Allocation System
 
-The is the biggest project yet. It has been built as part of the Software Engineering Practice module. The Task Allocation System is intended as a working prototype for an organisation that wished to 
+> IMPORTANT: this documentation is not finished and the code still requires some modifications. 
+
+The is the biggest project yet. It has been built as part of the Software Engineering Practice module.
 
 **Difficulty level:** Advanced. 
 
