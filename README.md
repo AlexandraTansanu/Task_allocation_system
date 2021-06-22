@@ -9,4 +9,9 @@ This is the most complex project yet. It has been built as part of the Software 
 
 **How it was built:** The GUIs of the program were built using the Eclipse Windowbuilder plugin. The program's archtecture follws the model-view-controller paradigm. Thus, the GUIs only deal with displaying while the controller carries out the actions required by the interfaces. After that, the task allocation database class takes care of the rest. All lists are generated dynamically from the database such that for each caretaker registered in the caretakers table will have a list. The display table data methods of the two interfaces were particularly challenging as they required to pass a reference to the controller and vice-versa in order to update tables whenever an operation on a list was carried out. For this, hash maps were implemeted. The hash maps in the view classes map the name of a caretaker to their generated table, while the same caretaker names in the controller class map to their corresponding lists. This way, the controller simply passes the data from the list to the interface which reloads the table.  
 
-> IMPORTANT: The code still requires some modifications, as it does not save the generated caretaker lists to the database, but is rather a prototype of the actual system. However, the administrator functionality is completely tied to the database. Furthermore, the login functionality has not been implemented yet. It would also be ideal to include a reporting functionality as mentioned.  
+> IMPORTANT: The code still requires some modifications, as it does not save the generated caretaker lists to the database, but is rather a prototype of the actual system. However, the administrator functionality is completely tied to the database. Furthermore, the login functionality has not been implemented yet. It would also be ideal to include a reporting functionality as mentioned. 
+
+## Administrator functionality 
+https://user-images.githubusercontent.com/60512873/122923091-25fe5480-d319-11eb-9ebf-90a0e53890a1.mp4
+
+
