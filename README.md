@@ -14,4 +14,24 @@ This is the most complex project yet. It has been built as part of the Software 
 ## Administrator functionality 
 https://user-images.githubusercontent.com/60512873/122923091-25fe5480-d319-11eb-9ebf-90a0e53890a1.mp4
 
+## Caretakers functionality
+https://user-images.githubusercontent.com/60512873/123063907-aa58e200-d3c2-11eb-9fae-fc40abfd6c07.mp4
+
+https://user-images.githubusercontent.com/60512873/123063935-b0e75980-d3c2-11eb-9f92-82ab8cdd7993.mp4
+
+https://user-images.githubusercontent.com/60512873/123063988-bd6bb200-d3c2-11eb-83a3-036895838b37.mp4
+
+https://user-images.githubusercontent.com/60512873/123064040-c8bedd80-d3c2-11eb-96a1-cafadfc5b613.mp4
+
+
+
+
+
+
+
+
+
+
+
+
 
